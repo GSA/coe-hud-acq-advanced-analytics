@@ -21,3 +21,6 @@ At the [U.S. Department of Housing and Urban Development](https://www.hud.gov/) 
 HUD has a need to integrate Advanced Analytics techniques such as Artificial Intelligence, Machine Learning, Robotic Process Automation, and Geospatial Analytics with HUD’s technical infrastructure and data to solve high priority issues. The team performing this work must validate certain use cases, gather and analyze data related to those use cases, develop a prototype, operationalize their prototype, and iterate and improve upon the design.
 
 This must be achieved in a manner that will utilize the data governance standards, policies, and procedures established by the Office of the Chief Data Officer in order to bring an enhanced analytical basis to HUD's decision making. Additionally, complex model outputs must be simplified into user-friendly reporting and visualization for multiple types of users.
+
+## Other RFIs
+Please see the [main repository](https://github.com/GSA/coe-hud-acquisitions/) for information on all procurement related information to the HUD and CoE engagement.
