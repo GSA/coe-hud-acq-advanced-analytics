@@ -10,7 +10,7 @@
 
 ## How to respond to this RFQ
 
-This RFQ was posted to eBuy under XXXX. Should you have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-hud-acq-advanced-analytics/blob/master/RFQ-Advanced-Analytics-for-OCDO.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLSeGee2Tklw1-TqHJ413AqWNV2gRPcEt7N76FEpnqICAxSpR2A/viewform) no later than *October 8, 2019 at noon, eastern*.
+This RFQ was posted to eBuy under RFQ1399047. Should you have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-hud-acq-advanced-analytics/blob/master/RFQ-Advanced-Analytics-for-OCDO.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLSeGee2Tklw1-TqHJ413AqWNV2gRPcEt7N76FEpnqICAxSpR2A/viewform) no later than *October 8, 2019 at noon, eastern*.
 
 Anyone interested in responding to this RFQ is encouraged to review the instructions referenced in the timetable that immediately follows the cover page. Please remember to review any artifacts in the repository as well.
 
